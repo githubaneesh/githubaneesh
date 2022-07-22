@@ -6,6 +6,7 @@ I am an expert in UI Development and UX Development & Architecture. I have got m
 ## Tech Stack ##
 **UI** : html5, css3, bootstrap.<br/>
 **UX** : ReactJS, Angular10+, Jquery.<br/>
+**Scripting Languages** : Typescript, Javascript.<br/>
 **Back end(Working Knowledge)** : NodeJS, ExpressJs.<br/>
 **Database(Working Knowledge)** : MongoDB.<br/>
 <!--
