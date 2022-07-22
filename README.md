@@ -1,5 +1,13 @@
-### Hi there 👋
-
+# UI/UX Architect #
+## About ##
+I am an expert in Front end Development and UX Architecture. I have got more than 10 years of experience in both UI & UX development in  various domains such as e-learning, e-commerce , enterprise web applications to name a few.
+* I have 6 years experience in Angular and 4 years in ReactJS.
+* I have good experience with implementing Responsive Design Architectures with html5, css3 and bootstrap.
+## Tech Stack ##
+**UI** : html5, css3, bootstrap.<br/>
+**UX** : ReactJS, Angular10+, Jquery.<br/>
+**Back end(Working Knowledge)** : NodeJS, ExpressJs.<br/>
+**Database(Working Knowledge)** : MongoDB.<br/>
 <!--
 **githubaneesh/githubaneesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
